@@ -79,7 +79,7 @@ const ShowcaseBand = () => {
   >
     <img
       src={bgbannerinsideimg}
-      alt="Trirope HRMS dashboard mockup with analytics and candidate pipeline"
+      alt="Trirope HRMS dashboard mockup afdafdf afdwith analytics and candidate pipeline"
       className="w-full h-auto"
       loading="eager"
     />
